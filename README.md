@@ -35,8 +35,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/s1995s1/sos2
-> cd sos2
+> git clone https://github.com/DoNKoMaR/BoTiK
+> cd BoTiK
 > yarn install 
 > npm install
 > npm update
