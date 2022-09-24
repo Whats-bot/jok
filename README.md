@@ -99,4 +99,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ### 🌟 Благодарность
  
-[![DoNKoMaR](https://github.com/DoNKoMaR.png?size=100)](https://github.com/https:/DoNKoMaR) 
+[![s1995s1]("https://github.com/s1995s1/sos2".png?size=100)](https://github.com/https:s1995s1) 
