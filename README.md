@@ -72,7 +72,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://discord.gg/84qsr4v">https://discord.gg/84qsr4v</a> (Preguntar por Vicemi)
 </p>
 
-### `—◉ 📝 NOTAS 📝`
+### `—◉ 📝 ☣ⒹⓞⓃ ⓀⓞⓂⓐⓇ☣ 📝`
 ```bash
 - ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
 - ES RECOMENDABLE LEER TODO EL MENU Y VER EL FUNCIONAMIENTO DE CADA UNO DE LOS COMANDOS
@@ -87,7 +87,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - SE RECOMIENDA REESCANEAR EL CODIGO QR CADA 2 DIAS, PARA EVITAR PROBLEMAS O ERRORES
 ```
 
-## `EDITOR Y PROPIETARIO DEL BOT` 
-`𝑁𝑜𝑡 𝐽ℎ𝑢𝑧-𝑀𝐷 __________ By Jhusz?`
+## `ВЛАДЕЛЕЦ БОТА  И РЕДАКТОР` 
+`『C』『A』『R』 __________ ☣ⒹⓞⓃ ⓀⓞⓂⓐⓇ☣`
 
 

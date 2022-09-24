@@ -73,7 +73,7 @@ const { state, saveState } = useSingleFileAuthState(global.authFile)
 const connectionOptions = {
 printQRInTerminal: true,
 auth: state,
-browser: ['『C』『A』『R』','Firefox','1.0.0'],
+browser: ['『C』『A』『R』 F.E.A.T ☣ⒹⓞⓃ ⓀⓞⓂⓐⓇ☣','Firefox','1.0.0'],
 }
 
 global.conn = makeWASocket(connectionOptions)
@@ -108,8 +108,7 @@ global.timestamp.connect = new Date
 }
 if (global.db.data == null) loadDatabase()
 if (connection == 'open') {
-console.log(chalk.yellow('▣─────────────────────────────···\n│\n│❧ ПРАВИЛЬНО ПОДКЛЮЧЕННЫЙ 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 ✅\n│\n▣─────────────────────────────···'))
-await conn.sendHydrated(`79010070455@s.whatsapp.net`, `ПРИВЕТ Царьᙆ  ᷦ×͜×, Ооо я рад появиться на свет✅`, author, pp, null, null, null, null, [['🌹 ВЛАДЕЛИЦ 🌹', '/owner'], ['👾 ПОЛНОЕ МЕНЮ 👾', '#menu']])
+console.log(chalk.yellow('▣─────────────────────────────···\n│\n│❧ БЫЛО УСПЕШНО СОЗДАННО ПОДКЛЮЧЕНИЕ К 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 ✅\n│\n▣─────────────────────────────···'))
 await conn.groupAcceptInvite('CYMyfxPBOp5ii48Zm9zqS')}}
 
 process.on('uncaughtException', console.error)
