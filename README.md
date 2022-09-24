@@ -94,10 +94,10 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ----
 
-### 🌟 Благодарность
+### 🌟 Благодарность редактору Бота
  
 [![DoNKoMaR](https://github.com/DoNKoMaR.png?size=100)](https://github.com/DoNKoMaR) 
 
-### 🌟 Благодарность
+### 🌟 Благодарность создателю Бота
  
 [![s1995s1]("https://github.com/s1995s1".png?size=100)](https://github.com/s1995s1) 
