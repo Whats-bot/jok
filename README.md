@@ -74,17 +74,17 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ### `—◉ 📝 ☣ⒹⓞⓃ ⓀⓞⓂⓐⓇ☣ 📝`
 ```bash
-- ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
-- ES RECOMENDABLE LEER TODO EL MENU Y VER EL FUNCIONAMIENTO DE CADA UNO DE LOS COMANDOS
-- REPORTA CUALQUIER FALLO CON EL COMANDO DE REPORTE 
-- PARA PODER ESCANEAR EL CODIGO QR DEBES SER PARTICIPANTE DE LA VERSION MULTI-DEVICE (BETA) DE WHATSAPP
-- NO MODIFIQUES NADA QUE NO SEPAS PARA QUE ES, PARA EVITAR PROBLEMAS O ERRORES
-- SI VAS A EDITAR POR COMPLETO DEJA LOS CREDITOS DEL BOT 
-- EL BOT ES COMPARTIBLE CON WHATSAPP NORMAL O BUSINESS
-- ATENTO A LAS ACTUALIZACIONES QUE SE HAGAN EN ESTE REPOSITORIO
-- EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE 
-- EL BOT FUNCIONA AUNQUE EL WHATSAPP NO TENGA CONEXION 
-- SE RECOMIENDA REESCANEAR EL CODIGO QR CADA 2 DIAS, PARA EVITAR PROBLEMAS O ERRORES
+- ВОЗМОЖНО, ЧТО БОТ ИМЕЕТ КАКИЕ-ТО НЕДОСТАТКИ, ОНИ БУДУТ РЕШЕНЫ ПО мере их обнаружения
+- РЕКОМЕНДУЕТСЯ ПРОЧИТАТЬ ВСЁ МЕНЮ И ПОСМОТРЕТЬ ДЕЙСТВИЕ КАЖДОЙ ИЗ КОМАНД
+- СООБЩАТЬ О ЛЮБОЙ ОШИБКЕ С ПОМОЩЬЮ КОМАНДЫ ОТЧЕТА
+- ЧТОБЫ СМОТРЕТЬ QR-КОД, ВЫ ДОЛЖНЫ БЫТЬ УЧАСТНИКОМ ВЕРСИИ ДЛЯ НЕСКОЛЬКИХ УСТРОЙСТВ (БЕТА) WHATSAPP
+- НЕ ИЗМЕНЯЙТЕ НИЧЕГО, ЧТО ВЫ НЕ ЗНАЕТЕ, ДЛЯ ЧЕГО ЭТО ПРЕДНАЗНАЧЕНО, ВО ИЗБЕЖАНИЕ ПРОБЛЕМ ИЛИ ОШИБОК
+- ЕСЛИ СОБИРАЕТЕСЬ РЕДАКТИРОВАТЬ, ПОЛНОСТЬЮ ОСТАВЬТЕ ТРЕДИТЫ БОТА
+- БОТ МОЖНО ПОДЕЛИТЬСЯ ЧЕРЕЗ НОРМАЛЬНЫЙ ИЛИ БИЗНЕС WHATSAPP
+- ВНИМАНИЕ НА ОБНОВЛЕНИЯ, КОТОРЫЕ ПРОИЗВОДЯТСЯ В ЭТОМ РЕПОЗИТОРИИ
+- ДОБАВЛЕНИЕ И УДАЛЕНИЕ НОМЕРА МОЖЕТ ПЕРЕЙТИ В ПОДДЕРЖКУ
+- БОТ РАБОТАЕТ, ДАЖЕ ЕСЛИ WHATSAPP НЕТ ПОДКЛЮЧЕНИЯ
+- РЕКОМЕНДУЕТСЯ ПОВТОРНО СКАНИРОВАТЬ QR-КОД КАЖДЫЕ 2 ДНЯ, ВО ИЗБЕЖАНИЕ ПРОБЛЕМ ИЛИ ОШИБОК
 ```
 
 ## `ВЛАДЕЛЕЦ БОТА  И РЕДАКТОР` 
