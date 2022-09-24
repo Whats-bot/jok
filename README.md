@@ -89,5 +89,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ## `ВЛАДЕЛЕЦ БОТА  И РЕДАКТОР` 
 `『C』『A』『R』 __________ ☣ⒹⓞⓃ ⓀⓞⓂⓐⓇ☣`
+<a href="https://github.com/DoNKoMaR"><img src="https://github.com/DoNKoMaR.png" width="300" height="300" alt="DoNKoMaR"/></a>
 
 
