@@ -61,7 +61,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<img src="https://64.media.tumblr.com/2539d481fd5f91c2a9748fdf18c17375/tumblr_n9y114IdTc1sxpnovo1_500.gifv" alt="GIF" width="450" height="240"/>
+<img src="https://64.media.tumblr.com/2539d481fd5f91c2a9748fdf18c17375/tumblr_n9y114IdTc1sxpnovo1_500.gifv" alt="GIF" width="520" height="240"/>
 <p>> Pagina Oficial:
 <a href="https://boxmineworld.com">https://boxmineworld.com</a>
 <p>> Dashboard:
