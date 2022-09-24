@@ -99,4 +99,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ### 🌟 Благодарность
  
-[![s1995s1]("https://github.com/s1995s1/sos2".png?size=100)](https://github.com/https:s1995s1) 
+[![s1995s1]("https://github.com/s1995s1/sos2".png?size=100)](https://github.com/s1995s1) 
