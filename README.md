@@ -90,6 +90,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `ВЛАДЕЛЕЦ БОТА  И РЕДАКТОР` 
 `『C』『A』『R』 __________ ☣ⒹⓞⓃ ⓀⓞⓂⓐⓇ☣`
 <a href="https://github.com/DoNKoMaR"><img src="https://github.com/DoNKoMaR.png" width="300" height="300" alt="DoNKoMaR"/></a>
+<a href="https://github.com/s1995s1"><img src="https://github.com/s1995s1.png" width="300" height="300" alt="s1995s1"/></a>
 
 ----
 
@@ -99,4 +100,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ### 🌟 Благодарность
  
-[![s1995s1]("https://github.com/s1995s1/sos2".png?size=100)](https://github.com/s1995s1) 
+[![s1995s1]("https://github.com/s1995s1/sos2".png?size=100)](https://github.com/DoNKoMaR) 
