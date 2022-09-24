@@ -91,4 +91,12 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 `『C』『A』『R』 __________ ☣ⒹⓞⓃ ⓀⓞⓂⓐⓇ☣`
 <a href="https://github.com/DoNKoMaR"><img src="https://github.com/DoNKoMaR.png" width="300" height="300" alt="DoNKoMaR"/></a>
 
+----
 
+### 🌟 𝐀𝐠𝐫𝐚𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨
+ 
+[![DoNKoMaR](https://github.com/DoNKoMaR.png?size=100)](https://github.com/DoNKoMaR) 
+
+### 🌟 𝐀𝐠𝐫𝐚𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨
+ 
+[![DoNKoMaR](https://github.com/DoNKoMaR.png?size=100)](https://github.com/https:/DoNKoMaR) 
