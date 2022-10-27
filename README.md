@@ -1,22 +1,47 @@
 # `𝑁𝑜𝑡 𝐽ℎ𝑢𝑧-𝑀𝐷 `
 
-### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
-<a href="http://wa.me/79010070455" target="blank"><img src="https://img.shields.io/badge/JHUSZ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-> NO BOT
+**БОТ ПРАВИЛЬНО РАБОТАЕТ В ОФИЦИАЛЬНОМ ПРИЛОЖЕНИИ
+WHATSAPP И ЕГО БИЗНЕС-ВЕРСИЯ, НЕ ГАРАНТИРУЕТСЯ
+ЧТО ПРАВИЛЬНО РАБОТАЕТ В ИЗМЕНЕННЫХ/МОДИФИЦИРОВАННЫХ ПРИЛОЖЕНИЯХ
 
-### `—◉ 🖍 LETRA DEL BOT 🖍`
-- PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
+До сих пор нет стабильной версии baileys MULTI-DEVICE,
+поэтому могут возникнуть ошибки подключения, если у вас есть ошибка
+обновление с терминала с помощью npm update @adiwajshing/baileys@4.1.0,
+Если ошибка не устранена, перейдите в официальный репозиторий baileys и проверьте
+что есть обновление ошибки или вы можете сообщить об ошибке. Из
+так же, если ошибка обнаружена, и я нахожу решение прямо здесь
+Я дам подробности.
 
-### `—◉ ✨ ACTIVAR EN HEROKU ✨`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BrunoSobrino/TheMystic-Bot-MD)
-```bash
-[❗] FALLAS POR EL MOMENTO EN HEROKU, SE TRABAJA EN SOLUCIONAR ERRORES.
-AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE, SI YA APARCEN SOLO IGNORA ESTA PARTE:
-> heroku/nodejs
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-> https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-> https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
-ADVERTENCIA: HEROKU ESTA SUSPENDIENDO CUENTAS POR SOLO USAR EL BOT, POR AHORA NO ES RECOMENDABLE USAR EL BOT EN HEROKU!
+Примечание. Это мой первый бот, которого я на 100 % адаптирую под Руссские титры.
+база используется в конце. *100% НЕКОММЕРЧЕСКИЙ БОТ ДА
+РЕДАКТИРОВАНИЕ ПОЖАЛУЙСТА, НЕ ДОБАВЛЯЙТЕ СРЕДСТВА ДЛЯ ПОЖЕРТВОВАНИЯ С НАЧАЛА ПРОЕКТА
+ЭТО СДЕЛАНО НЕ С ТАКОЙ ЦЕЛЬЮ*
+
+##Официальная группа WhatsApp
+
+[![Группа WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=blue)](https://chat.whatsapp.com/C16OT37Rp8L1tCT3znRfd7)
+
+
+#### Развернуть на Heroku
+[![Развернуть](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DoNKoMaR/Lucian)
+
+## ЕСЛИ РАЗВЕРТЫВАНИЕ НЕ ПРОШЛО
+
+[ ПРОБЛЕМЫ ГИТХАБА И ГЕРОКУ ]
+```
+Бот поддерживается для работы 24 часа в сутки, если вы хотите на героку, однако в настоящее время есть
+проблемы с подключением вашей учетной записи github к heroku, поэтому решение заключается в развертывании непосредственно из CLI heroku
+Что такое Heroku CLI Это собственная система Heroku, которая позволяет вам напрямую загружать файлы вашего проекта и
+запускать с того же терминала без необходимости создавать онлайн-репозиторий, для этого можно увидеть следующее
+руководство: https://www.youtube.com/watch?v=aUW5GAFhu6s
+```
+---------
+
+       ☣ВЛАДЕЛЬЦЫ☣
+|Админ и Владелец |НОМЕРА ВЛАДЕЛЬЦЕВ|
+|--------|--------|
+| **<a href="http://wa.me/79010070455" target="blank"><img src="https://img.shields.io/badge/Tsar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>** |[here](https://wa.me//+79010070455) |
+| **<a href="http://wa.me/+79773452127" target="blank"><img src="https://img.shields.io/badge/DoNKoMaR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>** | [here](https://wa.me//+79773452127) |
 ```
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
