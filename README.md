@@ -121,8 +121,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ### 🌟 Благодарность редактору Бота
  
-[![DoNKoMaR](https://github.com/DoNKoMaR.png?size=100)](https://github.com/DoNKoMaR) 
-
+[![DoNKoMaR](https://64.media.tumblr.com/2539d481fd5f91c2a9748fdf18c17375/tumblr_n9y114IdTc1sxpnovo1_500.gifv?size=100)](https://github.com/DoNKoMaR)
 ### 🌟 Благодарность создателю Бота
  
 [![s1995s1]("https://github.com/s1995s1".png?size=100)](https://github.com/s1995s1) 
