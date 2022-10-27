@@ -6,17 +6,17 @@ const effects = ['greyscale', 'invert', 'brightness', 'threshold', 'sepia', 'red
 let handler = async (m, { conn, usedPrefix, text }) => {
 let effect = text.trim().toLowerCase()
 if (!effects.includes(effect)) throw `
-*_✳️ USO CORRECTO DEL COMANDO ✳️_*
-*👉 Use:* ${usedPrefix}stickerfilter (efecto) 
-- Y responda a una imagen
-*✅ Ejemplo:* ${usedPrefix}stickerfilter greyscale
-*Lista de efectos:*
+*_✳️ПРАВИЛЬНОЕ ИСПОЛЬЗОВАНИЕ КОМАНДЫ ✳️_*
+*👉 Использовать:* ${usedPrefix}стикерфильтр (эффект) 
+- И ответ на картинку
+*✅ Пример:* ${usedPrefix}стикерфильтр оттенки серого
+*Список Эффектов:*
 ${effects.map(effect => `_> ${effect}_`).join('\n')}
 `.trim()
 let q = m.quoted ? m.quoted : m
 let mime = (q.msg || q).mimetype || ''
-if (!mime) throw '*_🔰 No se encontro la imagen_*\n\n*_✅ Responda a una imagen_*'
-if (!/image\/(jpe?g|png)/.test(mime)) throw `*_⚠️ Formato no admitido_*\n\n*_👉🏻 Responda a una imagen_*`
+if (!mime) throw '*_🔰 No se encontro la imagen_*\n\n*_✅ Ответить на изображение_*'
+if (!/image\/(jpe?g|png)/.test(mime)) throw `*_⚠️ Формат не поддерживается_*\n\n*_👉🏻 Ответить на картинку_*`
 let img = await q.download()
 let url = await uploadImage(img)
 let apiUrl = global.API('https://some-random-api.ml/canvas/', encodeURIComponent(effect), {

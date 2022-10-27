@@ -7,10 +7,10 @@ let handler = async (m, { conn, usedPrefix, text }) => {
 let effect = text.trim().toLowerCase()
 if (!effects.includes(effect)) throw `
 *_✳️ ПРАВИЛЬНОЕ ИСПОЛЬЗОВАНИЕ КОМАНДЫ ✳️_*
-*👉 Use:* ${usedPrefix}stickermaker (efecto) 
-- Y responda a una imagen
+*👉 Использовать:* ${usedPrefix}stickermaker (efecto) 
+-И ответ на картинку
 *✅ Пример:* ${usedPrefix}stickermaker jail
-*List Effect:*
+*Список Эффектов:*
 ${effects.map(effect => `_> ${effect}_`).join('\n')}
 `.trim()
 let q = m.quoted ? m.quoted : m
