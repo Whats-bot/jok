@@ -23,7 +23,7 @@ WHATSAPP И ЕГО БИЗНЕС-ВЕРСИЯ, НЕ ГАРАНТИРУЕТСЯ
 
 
 #### Развернуть на Heroku
-[![Развернуть](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DoNKoMaR/Lucian)
+[![Развернуть](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DoNKoMaR/BoTiK)
 
 ## ЕСЛИ РАЗВЕРТЫВАНИЕ НЕ ПРОШЛО
 
