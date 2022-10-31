@@ -28,7 +28,7 @@ orderMessage: {
 itemCount: 9999999,
 status: 1,
 surface: 1,
-message: 'Бот Пуляᙆ  ᷦ - 𝑀𝐷', 
+message: 'Бот Джокерᙆ  ᷦ - 𝑀𝐷', 
 orderTitle: `Бот Пуляᙆ  ᷦ`,
 thumbnail: imagen1, 
 sellerJid: '0@s.whatsapp.net'}}}}

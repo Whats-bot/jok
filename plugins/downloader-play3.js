@@ -9,7 +9,7 @@ const url = 'https://www.youtube.com/watch?v=' + videoId
 conn.sendHydrated(m.chat, `
 *◉— КАК ЗАГРУЗИТЬ  —◉*
 
-📌 *ТИТУЛ:* ${title}
+📌 *Исполнитель/Название:* ${title}
 📇 *ОПИСАНИЕ:* ${description}
 📆 *ОПУБЛИКОВАНО:* ${publishedTime}
 ⌚ *ПРОДОЛЖИТЕЛЬНОСТЬ:* ${durationH}
@@ -22,5 +22,5 @@ conn.sendHydrated(m.chat, `
 m.reply('*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝚁𝚁𝙾𝚁, 𝙿𝙾𝚁 𝙵𝙰𝚅𝙾𝚁 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*')
 console.log(e)
 }}
-handler.command = /^плей|playdoc?$/i
+handler.command = /^песня|playdoc?$/i
 export default handler
