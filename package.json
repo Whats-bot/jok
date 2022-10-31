@@ -14,16 +14,16 @@
         "cli": "node . --optimize_for_size --max_old_space_size=460 index.js",
         "db": "node . --autocleartmp --db 'mongodb+srv://BrunoSobrino:Akhmad6825@cluster0.mflne.mongodb.net/TheMystic-Bot-MD?retryWrites=true&w=majority'"
     },
-    "homepage": "https://github.com/DoNKoMaR",
+    "homepage": "https://github.com/Whats-bot",
     "author": {
         "name": "NotJhuz"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DoNKoMaR/BoTiK.git"
+        "url": "git+https://github.com/Whats-bot/jok.git"
     },
     "bugs": {
-        "url": "https://github.com/DoNKoMaR/BoTiK/issues"
+        "url": "https://github.com/Whats-bot/jok/issues"
     },
     "license": "MIT",
     "dependencies": {
