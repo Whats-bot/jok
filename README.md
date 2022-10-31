@@ -40,7 +40,7 @@ WHATSAPP И ЕГО БИЗНЕС-ВЕРСИЯ, НЕ ГАРАНТИРУЕТСЯ
        ☣ВЛАДЕЛЬЦЫ☣
 |Админ и Владелец |НОМЕРА ВЛАДЕЛЬЦЕВ|
 |--------|--------|
-| **<a href="http://wa.me/79524197466" target="blank"><img src="https://img.shields.io/badge/Tsar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>** |[here](https://wa.me//+79527197466) |
+| **<a href="http://wa.me/79524197466" target="blank"><img src="https://img.shields.io/badge/ZloiAdmiN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>** |[here](https://wa.me//+79527197466) |
 
 ```
 
