@@ -40,8 +40,8 @@ WHATSAPP И ЕГО БИЗНЕС-ВЕРСИЯ, НЕ ГАРАНТИРУЕТСЯ
        ☣ВЛАДЕЛЬЦЫ☣
 |Админ и Владелец |НОМЕРА ВЛАДЕЛЬЦЕВ|
 |--------|--------|
-| **<a href="http://wa.me/79010070455" target="blank"><img src="https://img.shields.io/badge/Tsar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>** |[here](https://wa.me//+79010070455) |
-| **<a href="http://wa.me/+79773452127" target="blank"><img src="https://img.shields.io/badge/DoNKoMaR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>** | [here](https://wa.me//+79773452127) |
+| **<a href="http://wa.me/79524197466" target="blank"><img src="https://img.shields.io/badge/Tsar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>** |[here](https://wa.me//+79527197466) |
+
 ```
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
@@ -60,7 +60,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/DoNKoMaR/BoTiK
+> git clone https://github.com/Whats-bot/jok.git
 > cd BoTiK
 > yarn install 
 > npm install
