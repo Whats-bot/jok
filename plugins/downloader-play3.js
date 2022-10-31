@@ -7,7 +7,7 @@ try {
 let { title, description, thumbnail, videoId, durationH, viewH, publishedTime } = vid
 const url = 'https://www.youtube.com/watch?v=' + videoId
 conn.sendHydrated(m.chat, `
-*◉— КАК ЗАГРУЗИТЬ  —◉*
+*◉— ВАША ПЕСНЯ  —◉*
 
 📌 *Исполнитель/Название:* ${title}
 📇 *ОПИСАНИЕ:* ${description}
@@ -15,8 +15,8 @@ conn.sendHydrated(m.chat, `
 ⌚ *ПРОДОЛЖИТЕЛЬНОСТЬ:* ${durationH}
 👀 *ПРОСМОТРОВ:* ${viewH}
 `.trim(), author, thumbnail, `${url}`, '𝚄𝚁𝙻', null, null, [
-['АУДИО', `${usedPrefix}yta.2 ${url}`],
-['ВИДЕО', `${usedPrefix}ytv.2 ${url}`]
+['ПЕСНЯ', `${usedPrefix}yta.2 ${url}`],
+['КЛИП', `${usedPrefix}ytv.2 ${url}`]
 ], m)
 }catch(e){
 m.reply('*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝚁𝚁𝙾𝚁, 𝙿𝙾𝚁 𝙵𝙰𝚅𝙾𝚁 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*')
