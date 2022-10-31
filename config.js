@@ -5,9 +5,8 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['79010070455', 'Создатель Царьᙆ  ×͜×', true],
-  ['79773452127', 'Создатель ☣ⒹⓞⓃ ⓀⓞⓂⓐⓇ☣  ×͜×', true],
-] // Cambia los numeros que quieras
+  ['79524197466', 'ZloiAdmiN  ×͜×', true],
+  ] // Cambia los numeros que quieras
 global.mods = [] 
 global.prems = [] 
 global.APIs = { // API Prefix
@@ -63,11 +62,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Бот Пуляᙆ  ᷦ×͜×'
-global.author = '★ Бот Пуляᙆ  ᷦ★'
+global.packname = 'Джокерᙆ  ᷦ×͜×'
+global.author = '★ Джокерᙆ  ᷦ★'
 
-global.wm = '★ Бот Пуляᙆ  ᷦ★'
-global.igfg = '★ Бот Пуляᙆ  ᷦ★'
+global.wm = '★ Джокерᙆ  ᷦ★'
+global.igfg = '★ Джокерᙆ  ᷦ★'
 global.wait = '*⌛ _Загрузка..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
